@@ -10,6 +10,12 @@ import org.w3c.dom.Text;
 
 public class MainActivity extends AppCompatActivity {
 
+    /**
+     * OnCreate function is where the initialization takes place
+     * in the android app.
+     * Here you can set the view, attach listeners etc...
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
